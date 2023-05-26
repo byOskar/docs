@@ -3,7 +3,7 @@
   "name": "Documentation Starter Kit",
   "logo": {
     "dark": "/logo/muval_logo.svg",
-    "light": "/logo/muval_logo.svg"
+    "light": "/logo/muval_logo_dark.svg"
   },
   "favicon": "/favicon.png",
   "colors": {
